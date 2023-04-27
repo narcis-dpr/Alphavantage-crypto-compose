@@ -1,4 +1,4 @@
-package com.example.alphavantagecomposecrypto.ui.theme
+package com.example.alphavantagecomposecrypto.presentation.ui.theme
 
 import android.app.Activity
 import android.os.Build

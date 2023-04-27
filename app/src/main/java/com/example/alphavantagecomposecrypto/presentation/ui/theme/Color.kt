@@ -1,4 +1,4 @@
-package com.example.alphavantagecomposecrypto.ui.theme
+package com.example.alphavantagecomposecrypto.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
